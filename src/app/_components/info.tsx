@@ -3,7 +3,7 @@ const infoItems = [
     title: '活動日',
     content: (
       <p>
-        <span>毎週月曜</span> 21:00 〜 22:00
+        <span>第2,4月曜日</span> 21:00 〜 
       </p>
     ),
   },
